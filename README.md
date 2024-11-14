@@ -21,17 +21,6 @@ A passionate full-stack engineer with expertise in Angular, React, Node.js, Nest
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/safeerkhattak/safeerkhattak/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/safeerkhattak/safeerkhattak/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/safeerkhattak/safeerkhattak/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
-
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/safeerkhattak/count.svg?"  />
 </div>
