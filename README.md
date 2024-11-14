@@ -9,7 +9,7 @@ A passionate full-stack engineer with expertise in Angular, React, Node.js, Nest
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 [![My github stats](https://bad-apple-github-readme.vercel.app/api?username=safeerkhattak&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)](#) 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=safeer5454&layout=compact&count_private=true&theme=dark&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=safeerkhattak&layout=compact&count_private=true&theme=dark&title_color=00b3ff)](#)
 [![My current streak](https://streak-stats.demolab.com/?user=safeerkhattak&count_private=true&theme=dark&title_color=00b3ff)](#)
 
 
