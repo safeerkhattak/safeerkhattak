@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Safeer Ahmad
 
 **Senior Software Engineer**  
-A passionate full-stack engineer with expertise in Angular, React, Node.js, NestJS, and database management using MongoDB and PostgreSQL (PSQL).
+A passionate full-stack engineer with expertise in React, Node.js, NestJS, and database management using MongoDB and PostgreSQL (PSQL).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,expressjs,nodejs,mongodb,nest,postgres,redux,visualstudio,vscode,aws,git,github,graphql&perline=13)](#)
