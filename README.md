@@ -15,8 +15,8 @@ A passionate full-stack engineer with expertise in Angular, React, Node.js, Nest
 
 ## 📫 Connect with me:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/usama-s-377964121/)
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />](mailto:muhammadusama387@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/safeer-ahmad-416b7720b/)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />](mailto:safeerahmad5454@gmail.com)
 
 
 ###
